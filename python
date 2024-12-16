@@ -1,4 +1,4 @@
-# 0000000
+# 0
 def caesar_cipher(message, key, option):
     # message: The text message you want to encrypt or decrypt.
     # key: The encryption or decryption key (the number of letters you want to shift the message by)
